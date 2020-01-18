@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404424656775",
+    "firebase_url": "https://el-da7ee7.firebaseio.com",
+    "project_id": "el-da7ee7",
+    "storage_bucket": "el-da7ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404424656775:android:86d8a058abcdb30e",
+        "android_client_info": {
+          "package_name": "eg.gov.iti.jets.el_da7ee7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404424656775-2fh2mlk28i5d9imsca9p8avvhp62dku2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eg.gov.iti.jets.el_da7ee7",
+            "certificate_hash": "f3f138cb501192dd0e9d428368b7ff923cc31ac9"
+          }
+        },
+        {
+          "client_id": "404424656775-6lk7po34f794mkj7psf07gk0s6h9cscq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IVx9HLegBo1Pabg9bLnztxovCJmbGKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404424656775-6lk7po34f794mkj7psf07gk0s6h9cscq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
